@@ -1,0 +1,2 @@
+import textwrap
+from example_data import sample_text
